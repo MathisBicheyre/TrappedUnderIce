@@ -19,7 +19,7 @@ Il n’était pas facile de séparer les tâches pour faire une répartition éq
 Notre équipe est composée de 5 personnes come sus-mentionné dans l'introduction :
 - Mathis BICHEYRE : chef de projet
 - Warren DJEDIR : responsable pôle technique
-- Hugues Bégeot : responsable pôle design
+- Hugues BEGEOT : responsable pôle design
 - Clément LAMBLING : second technique 
 - Nicolas BENCHIMOL : second design
 
