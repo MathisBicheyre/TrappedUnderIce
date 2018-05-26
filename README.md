@@ -1,5 +1,7 @@
 # Trapped Under Ice
 
+Voir aussi : https://bitbucket.org/went2shitcame2soon/project/commits/all
+
 ## Partie 1 - Synthèse du sujet posé et analyse
 
 Par sa structure même, le projet Transverse permet à chaque groupe d’étudiants de réaliser un projet dans une liberté quasi-totale, qu’il soit uniquement comme partiellement numérique ou mécanique.
