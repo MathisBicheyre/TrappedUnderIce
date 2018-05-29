@@ -1,0 +1,5 @@
+Your boss just gave you a BIIIG project : how do manage it ?;
+3;
+Plan the work;0;0;50;0;0;0;0;5;250;1;
+Hire another company to do the job for you;0;0;0;1500;0;0;10;0;-1000;0;
+Do all the work, all alone;0;30;50;0;0;-5;-10;10;500;3;

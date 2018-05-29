@@ -1,0 +1,5 @@
+Time to invest your money;
+3;
+Play it safe : Gold is sure;0;0;60;2000;0;-5;0;0;550;1;
+the Bytcoins seems to be a very good vein...;0;0;30;1000;0;0;0;0;350;2;
+Drugs, that's a very interesting invesment;0;0;0;0;0;0;5;0;250;-1;

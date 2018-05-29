@@ -1,0 +1,5 @@
+Oh-oh-oh, it's Xmas !! What will you offer to your wife ?;
+3;
+Nothing, having you is already a gift;0;0;0;0;0;-5;0;0;0;-2;
+A very nice, but VERY expensive (sigh) jewel;0;0;0;1000;0;5;5;0;-250;2;
+The indian book, the one about 'Kama-something';0;0;0;500;0;5;5;0;-100;0;

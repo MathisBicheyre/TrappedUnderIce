@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Intro/AnimationD\xE9but.unity"
+    guid: da23a47bf5fbbfd4a88de56af0a80c8e
+  - enabled: 1
+    path: Assets/Menu/Menu.unity
+    guid: b19f99e230bc2cc4c8a10cccf115a4d6
+  - enabled: 1
+    path: Assets/Player/Options/Options.unity
+    guid: 35d757bb2dc64644391f2c565b253613
+  - enabled: 1
+    path: Assets/DeadScene/Dead.unity
+    guid: f07bc24184420a24caeac9f2c81a84d1
+  - enabled: 1
+    path: Assets/Tuto/VraiTuto.unity
+    guid: 6bc815985aea5f8459403424066e5371
+  - enabled: 1
+    path: Assets/Tuto/NextLevel.unity
+    guid: 3f2401e04c97a364a88b1cecc5ec7e53
+  - enabled: 1
+    path: Assets/Tuto/Dept Abyss.unity
+    guid: 0302b2d9f9fb1d44393f64b7d736cc59
+  - enabled: 1
+    path: "Assets/Tuto/Dept C\xE9tac\xE9s.unity"
+    guid: 68ee822cc43792649a317cf3d318ba97
+  - enabled: 1
+    path: Assets/Tuto/Dept Hydro.unity
+    guid: 070b1eb725b733e42ac3581c72ed4a95
+  - enabled: 1
+    path: Assets/SSM/Scenes/SSM_Scene_Menu.unity
+    guid: 2129ed573db0fe2439b053921c3923e7
+  - enabled: 1
+    path: Assets/SSM/Scenes/SSM_Scene_NewGame.unity
+    guid: 867804229b267ce4b8b982085f68794f
+  - enabled: 1
+    path: Assets/SSM/Scenes/SSM_Scene_SavedGame.unity
+    guid: d4fc560cce7ab3346b2cc0ec3d11b3bd
+  - enabled: 1
+    path: Assets/SSM/Scenes/SSM_Scene_InGame.unity
+    guid: 495990e2a2429684e91d496bea97c92b

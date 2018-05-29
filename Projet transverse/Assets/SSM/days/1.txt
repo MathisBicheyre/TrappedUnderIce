@@ -1,0 +1,6 @@
+Isn't it time to own a pet ?;
+4;
+Go for a lazy cat;30;0;0;500;0;-5;5;0;-300;0;
+You've always dreamed of owning a rabbit;40;0;0;500;0;-6;6;0;-400;0;
+Turtle (or tortoise ?) are nice;50;0;0;1000;0;-10;10;0;-800;0;
+Nope, they're disgusting...;0;0;0;0;0;0;0;0;0;0;

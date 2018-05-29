@@ -1,0 +1,6 @@
+Your Boss is asking you to work more;
+4;
+Nah, you'll pass;0;0;0;600;0;0;0;0;-500;-1;
+Okay, just a little bit;0;0;25;0;0;0;-5;5;150;1;
+Well, you'll do more today;0;0;50;0;0;0;-10;10;300;2;
+Fine, you'll do twice your daily work;0;0;60;0;0;0;-8;8;600;3;

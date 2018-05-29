@@ -1,0 +1,6 @@
+You spend some time with a friend from work...;
+4;
+... at the Casino;0;60;0;3000;5;0;10;-5;-500;0;
+... at the local stripper-bar;0;0;0;800;0;5;5;-10;-500;-3;
+... at the Cinema;0;0;0;200;0;0;5;0;-100;1;
+... at the Racing Club;60;0;0;800;0;0;5;-5;-400;0;

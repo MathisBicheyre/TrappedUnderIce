@@ -1,0 +1,5 @@
+FIRE !! THE BUILDING'S ON FIRE !!!;
+3;
+RUN FOR YOUR LIFE;0;0;0;0;0;5;0;-5;0;-1;
+RUN WITH ALL YOUR STUFF;40;0;0;0;0;5;0;10;0;3;
+Wait, you have to save the boss's child !;80;0;0;0;0;5;0;10;400;5;

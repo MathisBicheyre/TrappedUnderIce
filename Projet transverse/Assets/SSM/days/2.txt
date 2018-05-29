@@ -1,0 +1,6 @@
+Happy Birthday!;
+4;
+Party with your colleagues;40;40;40;1000;0;-5;10;-5;-300;3;
+Sorry, but no celebration today;0;0;0;0;0;0;-5;5;0;0;
+Celebrate with your family;10;20;0;500;0;-5;5;0;-100;1;
+Time to buy THIS new car;0;0;0;3100;0;0;15;-3;-3000;2;

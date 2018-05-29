@@ -1,0 +1,6 @@
+Time for your (not-so) monthly sports day !!;
+4;
+Run alone in the park;40;0;0;0;0;10;0;0;0;0;
+Play tennis with a friend;60;0;0;500;0;5;5;0;-300;0;
+Go to the gym with strangers;30;0;0;1000;0;5;5;0;-850;1;
+Nah, Netflox & Chill is waaay better;0;0;0;0;0;-5;0;0;0;0;

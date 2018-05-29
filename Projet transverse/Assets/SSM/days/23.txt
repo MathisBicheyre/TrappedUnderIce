@@ -1,0 +1,5 @@
+*hips* You drank a little too much last night, how do you plan on going to work today ?;
+3;
+Call an UBEUR, that's safe... I guess ?;0;0;0;300;0;0;0;5;-200;0;
+Drive yourself, whatever the risks may be;60;0;0;0;0;-10;5;0;0;-1;
+Nah, stay safe, stay where you are, and stay in bed;0;0;0;0;0;10;0;0;0;1;

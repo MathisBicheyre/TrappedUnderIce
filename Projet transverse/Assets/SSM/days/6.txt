@@ -1,0 +1,5 @@
+*cough cough* Guess you're sick *cough cough*;
+3;
+*cough* You have to work, you need that paycheck;60;0;0;0;0;-5;0;5;100;1;
+*cough* You don't wanna die, you'll stay at home;0;0;50;0;0;5;0;5;-100;-1;
+*cough* Time to see the medic' ;0;0;0;0;0;10;0;-5;-200;0;

@@ -1,0 +1,5 @@
+You've just witnessed a Car crash;
+3;
+Go away, wishing he had a good insurance;0;0;0;0;0;0;0;0;0;-1;
+Heroically run to his aid (in front of everyone);75;0;0;0;0;0;5;0;0;5;
+Stay calm and call for an ambulance;45;0;0;0;0;0;0;0;0;1;

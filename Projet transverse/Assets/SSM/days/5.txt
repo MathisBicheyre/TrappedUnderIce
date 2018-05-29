@@ -1,0 +1,4 @@
+The family is getting bigger, wouldn't it be time to expand the house ?;
+2;
+It'll hurt your wallet, but it'll be good for your child;0;0;0;2500;0;-5;5;-5;-1000;5;
+It'll hurt your child, but it'll be good for your wallet;0;0;0;0;0;0;0;0;0;-2;

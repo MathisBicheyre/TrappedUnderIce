@@ -1,0 +1,5 @@
+One of your coworker is hosting a party tonight;
+3;
+You stay there for 30 minutes and leave early;0;0;0;500;0;-5;5;0;-300;1;
+Nope, you don't drink in the middle of the week;0;0;0;0;0;0;-5;0;0;-1;
+You raid the local store drinks and snacks;40;40;0;650;0;-15;15;-5;-500;3;

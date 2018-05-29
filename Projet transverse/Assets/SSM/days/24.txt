@@ -1,0 +1,5 @@
+On the way to the company, you had a car accident, you are safe but the car is broken;
+3;
+You do a statement;0;0;40;0;0;-5;0;-5;0;0;
+You fight with the one who did this;60;0;0;0;0;-10;0;-5;600;-1;
+You go to work and fix this later;0;0;0;0;0;-5;-5;5;100;0;

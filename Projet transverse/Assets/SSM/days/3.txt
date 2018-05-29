@@ -1,0 +1,4 @@
+There's a splendid woman next to you in the metro...;
+2;
+Brace yourself and talk to her !;30;40;0;0;5;5;5;-5;0;2;
+Avoid eye contact...;0;0;0;0;0;0;0;0;0;0;

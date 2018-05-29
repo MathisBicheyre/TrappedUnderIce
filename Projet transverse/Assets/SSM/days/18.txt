@@ -1,0 +1,4 @@
+You're asked to attend a congress in the U.K.;
+2;
+Guess you have to prepare your suitcase;0;0;45;0;5;0;0;10;0;1;
+Pretend you're sick;0;0;0;0;0;0;0;-5;0;-1;

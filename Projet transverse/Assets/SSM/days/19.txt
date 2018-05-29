@@ -1,0 +1,5 @@
+Your dear mama fell in the stairs;
+3;
+Take her to the nearest hospital ASAP;0;0;60;0;5;0;0;-5;0;2;
+Wait for the end of daily work before taking her;0;0;0;0;0;0;0;3;0;0;
+Guess she can walk there all by herself;0;0;0;0;0;0;0;5;100;-4;

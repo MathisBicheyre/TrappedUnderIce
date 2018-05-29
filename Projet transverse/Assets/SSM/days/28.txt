@@ -1,0 +1,5 @@
+You just had an argument with your beloved one;
+3;
+Drawn your anger in alcohol;50;0;0;500;0;-10;10;-5;-100;0;
+Go to sleep and dream about drawning your wife in alcohol;0;0;0;0;0;5;0;5;0;0;
+Present your (not-so) sincerest apologies;0;0;0;0;0;5;0;0;0;3;

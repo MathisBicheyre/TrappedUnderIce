@@ -1,0 +1,5 @@
+Your sunflower is getting dry...;
+3;
+You take some work-time to go to the garden market;0;0;40;400;0;0;0;-5;-100;-1;
+You friendly ask your friendly coworker to do your not-so friendly chores;0;40;0;400;0;0;-5;0;-100;-1;
+Nah, you hope she'll get better all by herself;0;0;0;0;0;0;0;0;0;-3;
